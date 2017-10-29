@@ -14,5 +14,3 @@ function whileLoop(number)
    number --
  }
  return 'done')
-
-
