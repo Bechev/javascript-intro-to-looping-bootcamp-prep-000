@@ -16,10 +16,3 @@ function whileLoop(number)
  return 'done')
 
 
- function doWhileLoop(array){
-     do {
-         array.unshift();
-
-     } while (array.length > 0 && maybeTrue());
-
- }
