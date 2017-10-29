@@ -14,3 +14,12 @@ function whileLoop(number)
    number --
  }
  return 'done')
+
+
+ function doWhileLoop(array){
+     do {
+         array.unshift();
+ 
+     } while (array.length > 0 && maybeTrue());
+ 
+ }
